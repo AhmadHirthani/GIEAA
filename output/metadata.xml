@@ -2,18 +2,17 @@
 
 <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>UFOs & Alcohol</dc:title>
-    <dc:creator>Marc Dietrichstein (https://orcid.org/0000-0003-4890-3498)</dc:creator>
-    <dc:creator>Markus Neumeyer (https://orcid.org/0000-0002-4081-0716)</dc:creator>
-    <dc:subject>Correlation of alcohol consumtion and UFO sightings</dc:subject>
-    <dc:description>Automated tool that invastigates and computes the correlation between the average alcohol consumption and the amount of UFO sightings in the United States of America since 1960.</dc:description>
-    <dc:date>23.03.2018</dc:date>
+    <dc:title>Impact of GDP on the educational attainment in Austria</dc:title>
+    <dc:creator>Ahmad Alhirthani (https://orcid.org/0000-0003-0241-0268)</dc:creator>
+    <dc:subject>Impact of GDP on the educational attainment in Austria</dc:subject>
+    <dc:description>Finding the impact of GDP on education attainment in Austria for tertiary school from 1961 up to 2010</dc:description>
+    <dc:date>15.04.2019</dc:date>
     <dc:type>DataGeneration</dc:type>
-    <dc:format>Jupyternotebook</dc:format>
-    <dc:source>Ufo Sightings: Sigmond Axel. (2014)</dc:source>
-    <dc:source>Alcohol Consumption: OECD (2018)</dc:source>
+    <dc:format>csv</dc:format>
+    <dc:source>Education Attainment for Population Aged 15 and Over</dc:source>
+    <dc:source>GDP World Bank Data</dc:source>
     <dc:language>English</dc:language>
-    <dc:coverage>1960 - present</dc:coverage>
+    <dc:coverage>1961 - 2010</dc:coverage>
     <dc:rights>Free access</dc:rights>
 
 </metadata>
